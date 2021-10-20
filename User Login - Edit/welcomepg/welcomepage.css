@@ -1,0 +1,18 @@
+html {
+    background: url("/img/street.jpg") no-repeat center fixed;
+    background-size: cover;
+}
+
+body {
+    background: rgba(255, 255, 255, 0.95);
+    width: 500px;
+    padding: 60px 90px;
+    margin: 40px auto;
+    border-radius: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#title {
+    color: green;
+}
